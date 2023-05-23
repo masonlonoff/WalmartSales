@@ -38,11 +38,15 @@ Walmart runs several promotional markdown events throughout the year. These mark
 
 
 ### Objectives:
-1) Understand and clean-up the dataset if neccessary.\
-2) Conduct analysis on the dataset to determine the relationship between each column and sales\
-3) Create ML models to predict sales for each store\
+1) Understand and clean-up the dataset if neccessary.
+2) Conduct analysis on the dataset to determine the relationship between each column and sales
+3) Create ML models to predict sales for each store
 4) Compare and rank the accuracies
 
+### Strategic Plan of Action:
+1) Data Exploration
+2) Exploratory Data Analysis
+3) Data Pre-Processing and Manipulation
 
 Make this an official writeup that outlines my steps and plans
 
