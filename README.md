@@ -22,21 +22,14 @@ One of the leading retail stores in the US, Walmart, would like to predict the s
 Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of all, which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data. Historical sales data for 45 Walmart stores located in different regions are available.
 
 ### Dataset Information:
-**Store** - the store number
-
-**Date** - the week of sales
-
-**Weekly_Sales** - sales for the given store
-
-**Holiday_Flag** - whether the week is a special holiday week 1 – Holiday week 0 – Non-holiday week
-
-**Temperature** - Temperature on the day of sale
-
-**Fuel_Price** - Cost of fuel in the region
-
-**CPI** – Prevailing consumer price index
-
-**Unemployment** - Prevailing unemployment rate
+**Store** - the store number\
+**Date** - the week of sales\
+**Weekly_Sales** - sales for the given store\
+**Holiday_Flag** - whether the week is a special holiday week 1 – Holiday week 0 – Non-holiday week\
+**Temperature** - Temperature on the day of sale\
+**Fuel_Price** - Cost of fuel in the region\
+**CPI** – Prevailing consumer price index\
+**Unemployment** - Prevailing unemployment rate\
 
 **####Holiday Events:**
 
@@ -49,8 +42,8 @@ Walmart runs several promotional markdown events throughout the year. These mark
 ### Objectives:
 1) Understand and clean-up the dataset if neccessary.\
 2) Conduct analysis on the dataset to determine the relationship between each column and sales\
-3) Create ML models to predict sales for each store
-4) Compare and rank the accuracies 
+3) Create ML models to predict sales for each store\
+4) Compare and rank the accuracies
 
 
 Make this an official writeup that outlines my steps and plans
