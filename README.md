@@ -4,4 +4,4 @@ Make this an official writeup that outlines my steps and plans
 
 
 
-Include ridge and Lasso 
+Include ridge and Lasso + KNN
