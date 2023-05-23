@@ -2,9 +2,18 @@
 ![image](https://github.com/masonlonoff/WalmartSales/assets/117112918/de4fdb22-580a-4304-84ad-357867da6407)
 
 ### Acknowledgement:
-This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle.
+This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle. 
 
 https://www.kaggle.com/datasets/yasserh/walmart-dataset/code?datasetId=1820993&sortBy=voteCount
+
+### Disclaimer:
+The data used in this analysis was obtained from a source that does not provide an official data origin or explicit information regarding the locations associated with the data. As a result, the accuracy and reliability of the data cannot be independently verified.
+
+Please exercise caution when interpreting and relying on the findings presented in this analysis. The absence of official data sources and location details may introduce uncertainties and potential limitations in the analysis.
+
+The analysis is conducted based on the available data, acknowledging the possibility of data inaccuracies or biases. Therefore, the results and conclusions should be considered with caution and may not reflect the true and accurate representation of the intended population or region.
+
+It is recommended to consult official government sources, reputable data providers, or subject matter experts for more reliable and validated information regarding the specific variables or factors under investigation.
 
 
 ### Description:
@@ -13,32 +22,40 @@ One of the leading retail stores in the US, Walmart, would like to predict the s
 Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of all, which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data. Historical sales data for 45 Walmart stores located in different regions are available.
 
 ### Dataset Information:
-Store - the store number
+**Store** - the store number
 
-Date - the week of sales
+**Date** - the week of sales
 
-Weekly_Sales - sales for the given store
+**Weekly_Sales** - sales for the given store
 
-Holiday_Flag - whether the week is a special holiday week 1 – Holiday week 0 – Non-holiday week
+**Holiday_Flag** - whether the week is a special holiday week 1 – Holiday week 0 – Non-holiday week
 
-Temperature - Temperature on the day of sale
+**Temperature** - Temperature on the day of sale
 
-Fuel_Price - Cost of fuel in the region
+**Fuel_Price** - Cost of fuel in the region
 
-CPI – Prevailing consumer price index
+**CPI** – Prevailing consumer price index
 
-Unemployment - Prevailing unemployment rate
+**Unemployment** - Prevailing unemployment rate
 
-**Holiday Events:**
+**####Holiday Events:**
 
-Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\
-Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\
-Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\
-Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
+**Super Bowl**: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\
+**Labour Day**: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\
+**Thanksgiving**: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\
+**Christmas**: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
+
+
+### Objectives:
+1) Understand and clean-up the dataset if neccessary.\
+2) Conduct analysis on the dataset to determine the relationship between each column and sales\
+3) Create ML models to predict sales for each store
+4) Compare and rank the accuracies 
+
 
 Make this an official writeup that outlines my steps and plans
 
 
-Add seasons, breakup the date column, breakout the store #
+Add seasons, breakup the date column, breakout the store #, turn temp to farenheit 
 
 Include ridge and Lasso + KNN
