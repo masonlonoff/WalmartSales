@@ -1,5 +1,6 @@
 # An Analysis on Walmart Sales
-**this** 
+![image](https://github.com/masonlonoff/WalmartSales/assets/117112918/de4fdb22-580a-4304-84ad-357867da6407)
+
 
 Make this an official writeup that outlines my steps and plans
 
