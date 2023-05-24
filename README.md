@@ -39,7 +39,7 @@ Walmart runs several promotional markdown events throughout the year. These mark
 **CPI** – Prevailing consumer price index\
 **Unemployment** - Prevailing unemployment rate\
 **Holiday Events:**\
-  -**Super Bowl**: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\
+  -**Super Bowl**: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13 (No observations found)\ 
   -**Labour Day**: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\
   -**Thanksgiving**: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\
   -**Christmas**: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
@@ -48,8 +48,9 @@ Walmart runs several promotional markdown events throughout the year. These mark
 ### Objectives:
 1) Understand and clean-up the dataset if neccessary.
 2) Conduct analysis on the dataset to determine the relationship between each column and sales
-3) Create ML models to predict sales for each store
-4) Compare and rank the accuracies
+3) Determine the extent that holidays affect sales
+4) Create ML models to predict sales for each store
+5) Compare and rank the accuracies
 
 ### Strategic Plan of Action:
 1) Data Exploration
@@ -62,7 +63,9 @@ Walmart runs several promotional markdown events throughout the year. These mark
 Make this an official writeup that outlines my steps and plans
 
 
-Add seasons, breakup the date column, breakout the store #, turn temp to farenheit. 
+Add seasons, breakup the date column, breakout the store #, add specific holidays to a column,
+
+cyclically encode dates
 
 Once the data manipulation is done, save it as a csv and import it to the ML file
 
