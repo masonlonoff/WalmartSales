@@ -1,6 +1,9 @@
 # An Analysis on Walmart Sales
 ![image](https://github.com/masonlonoff/WalmartSales/assets/117112918/de4fdb22-580a-4304-84ad-357867da6407)
 
+## File Descriptions:
+
+
 ### Acknowledgement:
 This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle. 
 
@@ -47,10 +50,19 @@ Walmart runs several promotional markdown events throughout the year. These mark
 1) Data Exploration
 2) Exploratory Data Analysis
 3) Data Pre-Processing and Manipulation
+4) Data Visualizations 
+5) Predictive Modeling
+6) Comparing Results
 
 Make this an official writeup that outlines my steps and plans
 
 
-Add seasons, breakup the date column, breakout the store #, turn temp to farenheit 
+Add seasons, breakup the date column, breakout the store #, turn temp to farenheit. 
+
+Once the data manipulation is done, save it as a csv and import it to the ML file
+
+Don't remove outliers but make sure to explain why 
+
+df_encoded = pd.get_dummies(df, columns=['Store'], prefix='Store')
 
 Include ridge and Lasso + KNN
