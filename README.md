@@ -6,7 +6,8 @@
 
 ### Table of Contents:
 - [Acknowledgement](#acknowledgement)
-- [Disclaimer] (#disclaimer)
+- [Disclaimer](#disclaimer)
+
 
 ### Acknowledgement:
 This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle. 
