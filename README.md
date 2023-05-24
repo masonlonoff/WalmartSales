@@ -2,7 +2,7 @@
 ![image](https://github.com/masonlonoff/WalmartSales/assets/117112918/de4fdb22-580a-4304-84ad-357867da6407)
 
 ## File Descriptions:
-* [Data_Exploration](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb)
+* [Data_Exploration](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains high-level analysis of the dataset consisting of checking for nulls, checking data types, and more.
 ### Acknowledgement:
 This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle. 
 
