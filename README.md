@@ -3,7 +3,7 @@
 
 ## File Descriptions:
 * [Data_Exploration](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains high-level analysis of the dataset consisting of checking for nulls, checking data types, and more.
-* [Exploratory_Data_Analysis](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains frequency analysis, outlier analysis, correlations, and column-specific EDA analysis.
+* [Exploratory_Data_Analysis](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains frequency analysis, outlier analysis, correlation analysis, and column-specific EDA analysis.
 
 ### Table of Contents:
 - [Acknowledgement](#acknowledgement)
