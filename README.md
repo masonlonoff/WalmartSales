@@ -3,6 +3,10 @@
 
 ## File Descriptions:
 * [Data_Exploration](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains high-level analysis of the dataset consisting of checking for nulls, checking data types, and more.
+
+### Table of Contents:
+- [Acknowledgement] (#Acknowledgement)
+
 ### Acknowledgement:
 This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle. 
 
