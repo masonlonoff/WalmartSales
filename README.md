@@ -43,8 +43,7 @@ Walmart runs several promotional markdown events throughout the year. These mark
 **CPI** – Prevailing consumer price index\
 **Unemployment** - Prevailing unemployment rate\
 **Holiday Events:**\
-  -**Super Bowl**: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\
-  
+  -**Super Bowl**: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
   -**Labour Day**: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\
   -**Thanksgiving**: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\
   -**Christmas**: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
