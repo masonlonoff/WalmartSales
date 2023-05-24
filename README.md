@@ -11,8 +11,7 @@
 
 ### Acknowledgement:
 This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle. 
-
-https://www.kaggle.com/datasets/yasserh/walmart-dataset/code?datasetId=1820993&sortBy=voteCount
+(https://www.kaggle.com/datasets/yasserh/walmart-dataset?datasetId=1820993)
 
 ### Disclaimer:
 The data used in this analysis was obtained from a source that does not provide an official data origin or explicit information regarding the locations associated with the data. As a result, the accuracy and reliability of the data cannot be independently verified.
