@@ -11,7 +11,7 @@
 
 
 ### Acknowledgement:
-This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle. 
+This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle.\
 (https://www.kaggle.com/datasets/yasserh/walmart-dataset?datasetId=1820993)
 
 ### Disclaimer:
