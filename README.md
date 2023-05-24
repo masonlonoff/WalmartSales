@@ -2,8 +2,7 @@
 ![image](https://github.com/masonlonoff/WalmartSales/assets/117112918/de4fdb22-580a-4304-84ad-357867da6407)
 
 ## File Descriptions:
-*[Data_Exploration]https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb
-
+*[Data_Exploration](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb)
 ### Acknowledgement:
 This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle. 
 
