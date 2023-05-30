@@ -79,3 +79,5 @@ Don't remove outliers but make sure to explain why
 df_encoded = pd.get_dummies(df, columns=['Store'], prefix='Store')
 
 Include ridge and Lasso + KNN
+
+Once the df_ml is done: check correlations and do dimensionality reduction if needed
