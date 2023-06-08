@@ -5,6 +5,7 @@
 * [Data_Exploration](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains high-level analysis of the dataset consisting of checking for nulls, checking data types, and more.
 * [Exploratory_Data_Analysis](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains frequency analysis, outlier analysis, correlation analysis, and column-specific EDA analysis.
 * [Preprocessing_Manipulation](https://github.com/masonlonoff/WalmartSales/blob/main/Preprocessing_Manipulation.ipynb): Contains the preprocessing steps that are needed to achieve the neccessary dataframes for the visualizations and machine learning. 
+* [Data_Visualizations](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Visualizations.ipynb):
 
 ### Table of Contents:
 - [Acknowledgement](#acknowledgement)
