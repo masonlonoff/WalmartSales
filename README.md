@@ -9,26 +9,15 @@
 * [Predictive_Modeling](https://github.com/masonlonoff/WalmartSales/blob/main/Predictive_Modeling.ipynb):
 
 ### Table of Contents:
-- [Acknowledgement](#acknowledgement)
-- [Disclaimer](#disclaimer)
+
 - [Description](#description)
 - [Dataset Information](#dataset_information)
 - [Objectives](#objectives)
 - [Strategic Plan of Action](#strategic-plan-of-action)
+- [Acknowledgement](#acknowledgement)
+- [Disclaimer](#disclaimer)
 
 
-### Acknowledgement:
-This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle.\
-(https://www.kaggle.com/datasets/yasserh/walmart-dataset?datasetId=1820993)
-
-### Disclaimer:
-The data used in this analysis was obtained from a source that does not provide an official data origin or explicit information regarding the locations associated with the data. As a result, the accuracy and reliability of the data cannot be independently verified.
-
-Please exercise caution when interpreting and relying on the findings presented in this analysis. The absence of official data sources and location details may introduce uncertainties and potential limitations in the analysis.
-
-The analysis is conducted based on the available data, acknowledging the possibility of data inaccuracies or biases. Therefore, the results and conclusions should be considered with caution and may not reflect the true and accurate representation of the intended population or region.
-
-It is recommended to consult official government sources, reputable data providers, or subject matter experts for more reliable and validated information regarding the specific variables or factors under investigation.
 
 
 ### Description:
@@ -69,3 +58,15 @@ Walmart runs several promotional markdown events throughout the year. These mark
 6) Comparing Results
 
 
+### Acknowledgement:
+This analysis was conducted based on the **Walmart Dataset** by M YASSER H on Kaggle.\
+(https://www.kaggle.com/datasets/yasserh/walmart-dataset?datasetId=1820993)
+
+### Disclaimer:
+The data used in this analysis was obtained from a source that does not provide an official data origin or explicit information regarding the locations associated with the data. As a result, the accuracy and reliability of the data cannot be independently verified.
+
+Please exercise caution when interpreting and relying on the findings presented in this analysis. The absence of official data sources and location details may introduce uncertainties and potential limitations in the analysis.
+
+The analysis is conducted based on the available data, acknowledging the possibility of data inaccuracies or biases. Therefore, the results and conclusions should be considered with caution and may not reflect the true and accurate representation of the intended population or region.
+
+It is recommended to consult official government sources, reputable data providers, or subject matter experts for more reliable and validated information regarding the specific variables or factors under investigation.
