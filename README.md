@@ -67,19 +67,4 @@ Walmart runs several promotional markdown events throughout the year. These mark
 5) Predictive Modeling
 6) Comparing Results
 
-Make this an official writeup that outlines my steps and plans
 
-
-Add seasons, breakup the date column, breakout the store #, add specific holidays to a column,
-
-cyclically encode dates
-
-Once the data manipulation is done, save it as a csv and import it to the ML file
-
-Don't remove outliers but make sure to explain why 
-
-df_encoded = pd.get_dummies(df, columns=['Store'], prefix='Store')
-
-Include ridge and Lasso + KNN + gradientboosting + neural network
-
-Once the df_ml is done: check correlations and do dimensionality reduction if needed
