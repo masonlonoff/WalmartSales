@@ -5,8 +5,8 @@
 * [Data_Exploration](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains high-level analysis of the dataset consisting of checking for nulls, checking data types, and more.
 * [Exploratory_Data_Analysis](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Exploration.ipynb): Contains frequency analysis, outlier analysis, correlation analysis, and column-specific EDA analysis.
 * [Preprocessing_Manipulation](https://github.com/masonlonoff/WalmartSales/blob/main/Preprocessing_Manipulation.ipynb): Contains the preprocessing steps that are needed to achieve the neccessary dataframes for the visualizations and machine learning. 
-* [Data_Visualizations](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Visualizations.ipynb):
-* [Predictive_Modeling](https://github.com/masonlonoff/WalmartSales/blob/main/Predictive_Modeling.ipynb):
+* [Data_Visualizations](https://github.com/masonlonoff/WalmartSales/blob/main/Data_Visualizations.ipynb): Contains visualizations that explore the relationship between each column and Weekly Sales. Also, the file attempts to analyze whether or not there is a relationship between holidays and Weekly Sales.
+* [Predictive_Modeling](https://github.com/masonlonoff/WalmartSales/blob/main/Predictive_Modeling.ipynb): Contains different models which attept to predict Weekly Sales. The end of the file compares the R2 and MPE scores for each model. 
 
 ### Table of Contents:
 
